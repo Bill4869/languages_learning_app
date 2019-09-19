@@ -1,0 +1,129 @@
+html, body {
+  margin:0;
+  padding:0;
+  height:100%;
+}
+body {
+  background-color: #ededed;
+}
+/* div.container {
+  background-color: white;
+} */
+div.jumbotron {
+  margin-top: -20px;
+  background-image: url("cover.jpeg");
+  background-size: contain;
+  /* background-image: inherit; */
+}
+div.col-sm-4 {
+  opacity: 0.5;
+  text-transform: capitalize;
+  text-align: center;
+  font-weight: bold;
+  /*margin-bottom: 20px;*/
+  margin-top: 20px;
+}
+div.choices {
+  width: 100%;
+  text-align: center;
+}
+.container {
+  /*padding: 60px 15px 0;*/
+  min-height: 100%;
+  position: relative;
+  margin-bottom: 50px;
+}
+div#body {
+
+  padding-bottom: 60px;
+}
+button.btn {
+  font-size: 3em;
+  margin-bottom: 20px;
+  width: 380px;
+}
+
+ .text-muted {
+  margin: 20px 0;
+}
+#footer {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+div#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  background-color: #f5f5f5;
+}
+form.left {
+  float: left;
+  width: 40%;
+}
+form.right {
+  /*float: right;*/
+  /*width: 40%;*/
+}
+span#transfer {
+  padding-top: 75px;
+}
+div.carousel {
+  background-color: #f5f5f5;
+  border-radius: 20px;
+  text-align: center;
+}
+a.left, a.right {
+  border-radius: 20px;
+}
+
+/*.item {
+  padding-top: 170px;
+  padding-bottom: 10px;
+}*/
+p.cards {
+  font-size: 5em;
+  margin-top: 170px;
+}
+div.well {
+  text-align: center;
+}
+div.well form button {
+  margin: 90px 30px;
+  font-size: 2em;
+  width: auto;
+}
+img {
+  max-height: 100%;
+}
+button.play {
+  /*margin-bottom: 150px;*/
+  font-size: 2em;
+
+}
+div#sound {
+  float: right;
+}
+td, th  {
+  font-size: 1.3em;
+}
+#lang1, #lang2 {
+  height: 50px;
+  font-size: 2em;
+}
+form.yrlang, form.stdlang {
+  width: 20%;
+  float: right;
+  margin-right: 15%;
+}
+#yl, #sl {
+  height: 50px;
+  font-size: 1.5em;
+}
+#mistab li {
+  font-size: 1.5em;
+}
+
+a.dropdown-toggle {
+  font-size: 2em;
+}
