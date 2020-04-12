@@ -1,6 +1,8 @@
 # LANGWORLD
-Languages learning web application called Langworld  
-![teaser1](./demonstration/teaser_1.JPG)  
+Languages learning web application called Langworld
+
+![teaser1](./demonstration/teaser_1.JPG)
+
 ![teaser2](./demonstration/teaser_2.JPG)
 ## Setup
 ### Prerequisites
